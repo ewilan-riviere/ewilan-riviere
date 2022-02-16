@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [**Bookshelves**](https://github.com/ewilan-riviere/bookshelves-back), an open source project to manage EPUB
+- 🔭 I’m currently working on [**Bookshelves**](https://github.com/bookshelves-project), an open source project to manage EPUB built with Nuxt 3 & Laravel 9
 - 🌱 I’m learning
   - Current technos: *Vue.js*/*Nuxt.js*, *Laravel*, *Flutter*, *Strapi*, *Tailwind CSS*
   - New technos: **typescript**, **dart** and **docker**
