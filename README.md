@@ -9,22 +9,6 @@
 - 😄 Pronouns: `she`/`they`
 - ⚡ Fun fact: ❤️ Markdown and documentation
 
-<details>
-    <summary> <samp>📈 GitHub stats</samp></summary>
-<br/>
-
-![ewilan-riviere GitHub stats](https://github-readme-stats.vercel.app/api?username=ewilan-riviere&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
-
-</details>
-
-<details>
-    <summary> <samp>📝 Programming Languages</samp></summary>
-<br/>
-
-![ewilan-riviere Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ewilan-riviere&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10)
-
-</details>
-
 [![github](https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=flat-square&logo=github&logoColor=ffffff)](https://github.com/ewilan-riviere)
 [![gitlab](https://img.shields.io/static/v1?label=&message=GitLab&color=000000&style=flat-square&logo=gitlab&logoColor=FCA121)](https://gitlab.com/ewilan-riviere)
 [![stackoverflow](https://img.shields.io/static/v1?label=&message=Stackoverflow&color=000000&style=flat-square&logo=stackoverflow&logoColor=F58025)](https://stackoverflow.com/users/11008206/ewilan-r)
