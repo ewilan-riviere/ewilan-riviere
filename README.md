@@ -1,6 +1,8 @@
 ### Hi there, I'm Ewilan 👋
 
-- 🔭 I’m currently working on [**bookshelves**](https://github.com/bookshelves-project), an open source project to manage eBooks and comics and open-source packages with [**kiwilan**](https://github.com/kiwilan)
+- 🔭 I’m currently working on:
+  - [**bookshelves**](https://github.com/bookshelves-project), an open source project to manage eBooks and comics
+  - [**kiwilan**](https://github.com/kiwilan), open-source packages
 - 🌱 I’m learning
   - Current technos: *Vue.js*/*Nuxt.js*, *Laravel*, *Tailwind CSS*, *TypeScript*, *Node.js*, *Livewire*, *Alpine.js*, *Flutter*, *Strapi*
   - New technos: **Docker**, **Pest**
