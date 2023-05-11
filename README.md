@@ -7,7 +7,7 @@
   - Current technos: *Vue.js*/*Nuxt.js*, *Laravel*, *Tailwind CSS*, *TypeScript*, *Node.js*, *Livewire*, *Alpine.js*, *Flutter*, *Strapi*
   - New technos: **Docker**, **Pest**
 - 👯 I’m looking to collaborate on **open source** projects
-- 📫 How to reach me: [contact@ewilan-riviere.com](mailto:contact@ewilan-riviere.com)
+- 📫 How to reach me: [ewilan.riviere@gmail.com](mailto:ewilan.riviere@gmail.com)
 - 😄 Pronouns: `she`/`they`
 - ⚡ Fun fact: ❤️ Markdown and documentation
 
