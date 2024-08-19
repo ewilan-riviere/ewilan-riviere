@@ -11,11 +11,11 @@
 https://www.linkedin.com/in/ewilan-riviere/)
 
 - 🔭 I’m currently working on:
-  - [**bookshelves**](https://github.com/bookshelves-project), an open source project to manage eBooks and comics
+  - [**bookshelves**](https://github.com/bookshelves-project), an open source project to manage eBooks, comics, mangas and audiobooks
   - [**kiwilan**](https://github.com/kiwilan), open-source packages
 - 🌱 I’m learning
-  - Current technos: *Vue.js*/*Nuxt.js*, *Laravel*, *Tailwind CSS*, *TypeScript*, *Node.js*, *Livewire*, *Alpine.js*, *Flutter*, *Strapi*
-  - New technos: **Docker**, **Pest**
+  - Current technos: *Vue.js*/*Nuxt.js*, *Laravel*, *Tailwind CSS*, *TypeScript*, *Node.js*, *Livewire*, *Alpine.js*, *Flutter*, *Docker*
+  - New technos: **Pest**
 - 👯 I’m looking to collaborate on **open source** projects
 - 📫 How to reach me: [ewilan.riviere@gmail.com](mailto:ewilan.riviere@gmail.com)
 - 😄 Pronouns: `she`/`they`
